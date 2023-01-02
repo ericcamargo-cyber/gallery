@@ -1,52 +1,87 @@
 {
-  "Photos": [
+  "Landscape": [
     {
       "width": 4032,
       "height": 3024,
-      "path": "./photos/Photos/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.jpg",
-      "compressed_path": "./photos/Photos/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.min.jpg",
+      "path": "./photos/Landscape/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.jpg",
+      "compressed_path": "./photos/Landscape/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/22CF6DC2-DEB6-468E-82C1-36EBA3614D61.placeholder.jpg"
     },
     {
       "width": 5599,
       "height": 3740,
-      "path": "./photos/Photos/DSC02426.jpg",
-      "compressed_path": "./photos/Photos/DSC02426.min.jpg",
+      "path": "./photos/Landscape/DSC02426.jpg",
+      "compressed_path": "./photos/Landscape/DSC02426.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/DSC02426.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/DSC02426.placeholder.jpg"
+    },
+    {
+      "width": 5047,
+      "height": 2721,
+      "path": "./photos/Landscape/DSC08876.jpg",
+      "compressed_path": "./photos/Landscape/DSC08876.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Landscape/DSC08876.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 4032,
-      "path": "./photos/Photos/IMG_2450.jpg",
-      "compressed_path": "./photos/Photos/IMG_2450.min.jpg",
+      "path": "./photos/Landscape/IMG_2450.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2450.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/IMG_2450.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2450.placeholder.jpg"
     },
     {
       "width": 2393,
       "height": 4760,
-      "path": "./photos/Photos/IMG_2795.jpg",
-      "compressed_path": "./photos/Photos/IMG_2795.min.jpg",
+      "path": "./photos/Landscape/IMG_2795.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2795.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/IMG_2795.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2795.placeholder.jpg"
     },
     {
       "width": 3024,
       "height": 2832,
-      "path": "./photos/Photos/IMG_2798.jpg",
-      "compressed_path": "./photos/Photos/IMG_2798.min.jpg",
+      "path": "./photos/Landscape/IMG_2798.jpg",
+      "compressed_path": "./photos/Landscape/IMG_2798.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/IMG_2798.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/IMG_2798.placeholder.jpg"
     },
     {
       "width": 3000,
       "height": 5332,
-      "path": "./photos/Photos/oculusflagcolor.jpg",
-      "compressed_path": "./photos/Photos/oculusflagcolor.min.jpg",
+      "path": "./photos/Landscape/oculusflagcolor.jpg",
+      "compressed_path": "./photos/Landscape/oculusflagcolor.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Photos/oculusflagcolor.placeholder.jpg"
+      "placeholder_path": "./photos/Landscape/oculusflagcolor.placeholder.jpg"
+    }
+  ],
+  "Sport-Action": [],
+  "Street": [
+    {
+      "width": 4581,
+      "height": 3054,
+      "path": "./photos/Street/copspatrol.jpg",
+      "compressed_path": "./photos/Street/copspatrol.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Street/copspatrol.placeholder.jpg"
+    },
+    {
+      "width": 4024,
+      "height": 6020,
+      "path": "./photos/Street/DSC08308_04.jpg",
+      "compressed_path": "./photos/Street/DSC08308_04.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Street/DSC08308_04.placeholder.jpg"
+    },
+    {
+      "width": 3376,
+      "height": 6000,
+      "path": "./photos/Street/oculusflagcolor.png",
+      "compressed_path": "./photos/Street/oculusflagcolor.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Street/oculusflagcolor.placeholder.png"
     }
   ]
 }
